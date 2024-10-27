@@ -13,6 +13,7 @@
 - Cmd + A (izberi vse)
 - Cmd + T (odpiranje novega zavihka)
 
+
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
 
