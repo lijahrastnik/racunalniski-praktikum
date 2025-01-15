@@ -13,7 +13,6 @@
 - Cmd + A (izberi vse)
 - Cmd + T (odpiranje novega zavihka)
 
-
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
 
@@ -40,4 +39,3 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 1. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 1. [Zapiski in vaje za Računalniški praktikum](http://katjabercic.github.io/racunalniski-praktikum)
 1. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[Domača naloga](https://lijahrastnik.github.io)
