@@ -49,23 +49,29 @@
 \headcommand {\sectionentry {5}{Matematika, 1. del\\\large {Analiza, logika, množice}}{38}{Matematika, 1. del}{0}}
 \headcommand {\slideentry {5}{0}{1}{38/38}{}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\beamer@sectionpages {38}{38}}
-\headcommand {\beamer@subsectionpages {38}{38}}
-\headcommand {\sectionentry {6}{Stolpci in slike}{39}{Stolpci in slike}{0}}
-\headcommand {\slideentry {6}{0}{1}{39/39}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{39/39}{}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\beamer@sectionpages {39}{39}}
-\headcommand {\beamer@subsectionpages {39}{39}}
-\headcommand {\sectionentry {7}{Paket \texttt {beamer} in tabele}{40}{Paket \texttt {beamer} in tabele}{0}}
-\headcommand {\slideentry {7}{0}{1}{40/40}{}{0}}
+\headcommand {\slideentry {5}{0}{3}{40/40}{}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\beamer@sectionpages {40}{40}}
-\headcommand {\beamer@subsectionpages {40}{40}}
-\headcommand {\sectionentry {8}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{41}{Matematika, 2. del}{0}}
-\headcommand {\slideentry {8}{0}{1}{41/41}{}{0}}
+\headcommand {\slideentry {5}{0}{4}{41/41}{}{0}}
 \headcommand {\beamer@framepages {41}{41}}
-\headcommand {\beamer@partpages {1}{41}}
-\headcommand {\beamer@subsectionpages {41}{41}}
-\headcommand {\beamer@sectionpages {41}{41}}
-\headcommand {\beamer@documentpages {41}}
-\headcommand {\gdef \inserttotalframenumber {13}}
+\headcommand {\beamer@sectionpages {38}{41}}
+\headcommand {\beamer@subsectionpages {38}{41}}
+\headcommand {\sectionentry {6}{Stolpci in slike}{42}{Stolpci in slike}{0}}
+\headcommand {\slideentry {6}{0}{1}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\beamer@sectionpages {42}{42}}
+\headcommand {\beamer@subsectionpages {42}{42}}
+\headcommand {\sectionentry {7}{Paket \texttt {beamer} in tabele}{43}{Paket \texttt {beamer} in tabele}{0}}
+\headcommand {\slideentry {7}{0}{1}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\beamer@sectionpages {43}{43}}
+\headcommand {\beamer@subsectionpages {43}{43}}
+\headcommand {\sectionentry {8}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{44}{Matematika, 2. del}{0}}
+\headcommand {\slideentry {8}{0}{1}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@partpages {1}{44}}
+\headcommand {\beamer@subsectionpages {44}{44}}
+\headcommand {\beamer@sectionpages {44}{44}}
+\headcommand {\beamer@documentpages {44}}
+\headcommand {\gdef \inserttotalframenumber {16}}
